@@ -1,0 +1,9 @@
+E:\dev\ImageDateUtility\ImageDateUtility\ImageDateUtility\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\dev\ImageDateUtility\ImageDateUtility\ImageDateUtility\obj\x86\Debug\ImageDateUtility.frmImageDateUtility.resources
+E:\dev\ImageDateUtility\ImageDateUtility\ImageDateUtility\obj\x86\Debug\ImageDateUtility.Properties.Resources.resources
+E:\dev\ImageDateUtility\ImageDateUtility\ImageDateUtility\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\dev\ImageDateUtility\ImageDateUtility\ImageDateUtility\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\dev\ImageDateUtility\ImageDateUtility\ImageDateUtility\bin\Debug\ImageDateUtility.exe
+E:\dev\ImageDateUtility\ImageDateUtility\ImageDateUtility\bin\Debug\ImageDateUtility.pdb
+E:\dev\ImageDateUtility\ImageDateUtility\ImageDateUtility\obj\x86\Debug\ImageDateUtility.exe
+E:\dev\ImageDateUtility\ImageDateUtility\ImageDateUtility\obj\x86\Debug\ImageDateUtility.pdb
